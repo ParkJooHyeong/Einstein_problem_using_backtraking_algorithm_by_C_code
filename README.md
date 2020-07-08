@@ -5,7 +5,7 @@ Backtracking 알고리즘을 활용한 Einstein Problem 해결
 Solve Einstein problem using backtraking algorithm by C code
 
 
-# Facts
+## Facts
 • There are 5 houses (along the street) in 5 different colors: blue, green, red, white and yellow.
 
 • In each house lives a person of a different nationality: Brit, Dane, German, Norwegian and Swede.
@@ -20,7 +20,7 @@ Solve Einstein problem using backtraking algorithm by C code
 
 
 
-# Hints
+## Hints
 • The Brit lives in a red house.
 
 • The Swede keeps dogs as pets.
