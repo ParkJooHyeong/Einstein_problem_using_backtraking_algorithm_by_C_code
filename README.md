@@ -35,4 +35,5 @@ Solve Einstein problem using backtraking algorithm by C code
 
 
 ## 실행 결과  
+![image](https://user-images.githubusercontent.com/67997760/86993226-6afbaa80-c1de-11ea-87de-74d4e9d0143b.png)
 
