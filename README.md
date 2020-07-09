@@ -1,6 +1,6 @@
 # Einstein_problem_using_backtraking_algorithm_by_C  
 
-Backtracking 알고리즘을 활용한 Einstein Problem 해결
+Backtracking 알고리즘을 활용한 Einstein Problem 
 
 Solve Einstein problem using backtraking algorithm by C code
 
