@@ -31,3 +31,8 @@ Solve Einstein problem using backtraking algorithm by C code
 • The German smokes Prince.  
 • The Norwegian lives next to the blue house.  
 • The man who smokes Blend has a neighbor who drinks water.  
+#  
+
+
+## 실행 결과  
+
